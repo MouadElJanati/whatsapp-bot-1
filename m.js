@@ -126,7 +126,7 @@ const convertSticker = function(shape, author, pack, mediaData, type) {
       "pack": pack,
       "author": author,
       "shape": shape,
-      "api_key": "JDJiJDEwJGdmVUtWUHk4eldkYlBhcUJZLklRMHV2eHVUc2Z1M1hrOVZSN1N6eWZFeEN0aWloOUpNT2RX",
+      "api_key": "JDJiJDEwJDhldTdtMEMwenYvTWdEUmMxUHNPY3V0c3lVRUJ2UUJKLkwydzF2WS9tNFJuS1lTdHVXOGR1",
     };
     var url = "https://stickerman.org/api/convert";
     var boundary = "sticker";
